@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm zeeshan khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,6 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/zisan-khan-257866324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zisan-khan-257866324" height="30" width="40" /></a>
+<a href="https://kaggle.com/zeeshank26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeeshank26" height="30" width="40" /></a>
 <a href="https://instagram.com/zeeshank_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeshank_26" height="30" width="40" /></a>
 </p>
 
@@ -18,7 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z4kt26&show_icons=true&locale=en" alt="z4kt26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z4kt26&" alt="z4kt26" /></p>
-# 👋 Hi, I'm Zeeshan Khan
+ 👋 Hi, I'm Zeeshan Khan
 
 💻 I'm a passionate Machine Learning and Python Developer from India.  
 🌱 Currently working on *Property Price Prediction, Customer Churn Prediction, and Heart Disease Prediction* projects.  
@@ -34,9 +37,6 @@
 - 💔 [Heart Disease Prediction](https://github.com/yourusername/heart-disease-prediction)
 - 📞 [Customer Churn Prediction](https://github.com/yourusername/churn-prediction)
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/your-link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-lightblue)](https://kaggle.com/your-link)
-[![Email](https://img.shields.io/badge/Email-grey)](mailto:your.email@example.com)
+
 
 > “Code. Learn. Improve. Repeat.”
