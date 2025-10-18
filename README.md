@@ -32,11 +32,6 @@
 - *Libraries & Tools:* NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow  
 - *Other:* Git, Jupyter Notebook, VS Code
 
-### 📂 Projects
-- 🏠 [Property Price Prediction](https://github.com/yourusername/property-price-prediction)
-- 💔 [Heart Disease Prediction](https://github.com/yourusername/heart-disease-prediction)
-- 📞 [Customer Churn Prediction](https://github.com/yourusername/churn-prediction)
-
 
 
 > “Code. Learn. Improve. Repeat.”
